@@ -1,0 +1,20 @@
+[
+    {
+        "setup": "Joke 1",
+        "punchline": "Punchline",
+        "laughs": 3,
+        "groans": 0
+    },
+    {
+        "setup": "Joke 2",
+        "punchline": "Punchline",
+        "laughs": 0,
+        "groans": 3
+    },
+    {
+        "setup": "Joke 3",
+        "punchline": "Punchline",
+        "laughs": 3,
+        "groans": 0
+    }
+]
